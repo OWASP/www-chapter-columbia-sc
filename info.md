@@ -1,9 +1,5 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### [Columbia SC] Information
+
 
 ### Downloads or Social Links
 * [Download](#)
