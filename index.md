@@ -8,14 +8,32 @@ type:
 ---
 
 <!-- rebuild 1 -->
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+**Welcome to the Columbia, SC, USA chapter homepage.**
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+The chapter leaders are Frank Catucci, Ralph Collum, William Scalf.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+**Participation**
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+OWASP Foundation is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are run independently and guided by the Chapter Leader Handbook. As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the speaker agreement and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-type: For projects, one of documentation, code, or tool
+**Local News**
+
+NEXT MEETING - Thursday March 28th 2019 - Register Now -> https://www.eventbrite.com/e/owasp-columbia-meeting-tickets-59027002353
+
+TOPIC: "Cover Your XSS: Attacks in Appland" - Exploring the World of XSS
+
+As usual the cost is absolutely nothing! There will also be some hacker trivia with a few giveaways!
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**Info**
+
+Presentation from March 28th 2019 on "Cover Your XSS: Attacks in Appland" - Exploring the World of XSS" --> Cover Your XSS: Attacks in Appland - Exploring the World of XSS - https://drive.google.com/file/d/1LOMRKgFf9mvKHwVQjZKej70XEhU7-sVe/view?usp=sharing 
+
+PDF from SQLi meeting from October meeting is located here -> SQLi Presentation - https://drive.google.com/file/d/0B4C2y2IyDLI8YmRCUnluSTE3ZlE/view?usp=sharing 
+
+Everyone is always welcome to join us at our chapter meetings.
+
+Link to OWASP Vulnerable Web Applications Directory Project can be found here -> OWASP Vulnerable Web Applications Directory Project
+https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project
