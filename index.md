@@ -7,7 +7,6 @@ tags: columbia
 region: North America
 
 ---
-
 **Welcome to the Columbia, SC, USA chapter homepage.**
 
 The chapter leaders are Frank Catucci, Ralph Collum, William Scalf.
