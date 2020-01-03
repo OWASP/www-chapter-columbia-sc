@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP - Columbia, SC
 tags: Columbia
+
 region: North America
 
 ---
