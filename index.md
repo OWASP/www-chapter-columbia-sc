@@ -19,7 +19,7 @@ OWASP Foundation is a professional association of global members and is open to 
 
 **Local News**
 
-NEXT MEETING - Thursday March 28th 2019 - Register Now -> [https://www.eventbrite.com/e/owasp-columbia-meeting-tickets-59027002353]
+NEXT MEETING - Thursday March 28th 2019 - [Register Now!](https://www.eventbrite.com/e/owasp-columbia-meeting-tickets-59027002353)
 
 TOPIC: "Cover Your XSS: Attacks in Appland" - Exploring the World of XSS
 
@@ -29,11 +29,10 @@ As usual the cost is absolutely nothing! There will also be some hacker trivia w
 
 **Info**
 
-Presentation from March 28th 2019 on "Cover Your XSS: Attacks in Appland" - Exploring the World of XSS" --> Cover Your XSS: Attacks in Appland - Exploring the World of XSS - [https://drive.google.com/file/d/1LOMRKgFf9mvKHwVQjZKej70XEhU7-sVe/view?usp=sharing]
+Presentation from March 28th 2019 on "Cover Your XSS: Attacks in Appland" - Exploring the World of XSS" --> [Cover Your XSS: Attacks in Appland - Exploring the World of XSS](https://drive.google.com/file/d/1LOMRKgFf9mvKHwVQjZKej70XEhU7-sVe/view?usp=sharing)
 
-PDF from SQLi meeting from October meeting is located here -> SQLi Presentation - [https://drive.google.com/file/d/0B4C2y2IyDLI8YmRCUnluSTE3ZlE/view?usp=sharing]
+PDF from SQLi meeting from October meeting is located here -> [SQLi Presentation](https://drive.google.com/file/d/0B4C2y2IyDLI8YmRCUnluSTE3ZlE/view?usp=sharing)
 
 Everyone is always welcome to join us at our chapter meetings.
 
-Link to OWASP Vulnerable Web Applications Directory Project can be found here -> OWASP Vulnerable Web Applications Directory Project
-[https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project]
+Link to OWASP Vulnerable Web Applications Directory Project can be found here -> [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
