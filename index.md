@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP [Columbia SC]
+title: OWASP - Columbia, SC
 tags: example-tag
 level: 4
 type: 
