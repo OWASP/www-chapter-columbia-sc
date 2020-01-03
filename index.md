@@ -1,14 +1,12 @@
 ---
 
 layout: col-sidebar
-title: OWASP - Columbia, SC
-tags: Columbia
+title: OWASP Columbia SC
+tags: columbia
 
 region: North America
 
 ---
-
-<!-- rebuild 1 -->
 
 **Welcome to the Columbia, SC, USA chapter homepage.**
 
