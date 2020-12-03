@@ -3,7 +3,7 @@
 
 ### Downloads or Social Links
 * [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-columbia-meetup-group/)
 
 ### Code Repository
 * [repo](#)
